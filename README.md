@@ -3,6 +3,8 @@ In this study, the problem of computing a sparse representation of multi-dimensi
 
 
 Code related to the paper "Connections between Deep Equilibrium and Sparse Representation Models with Application to Hyperspectral Image Denoising"
+
+##If you find it useful, please cite
 @ARTICLE{10049770,
   author={Gkillas, Alexandros and Ampeliotis, Dimitris and Berberidis, Kostas},
   journal={IEEE Transactions on Image Processing}, 
